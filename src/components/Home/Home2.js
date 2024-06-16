@@ -19,7 +19,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Javascript and Go. </b>
               </i>
               <br />
               <br />
@@ -29,7 +29,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products with <b className="purple">Node.js</b> and
+              Whenever possible, I also apply my passion for developing products with <b className="purple">Node.js and Go</b> and
               <i>
                 <b className="purple"> Modern Javascript Library and Frameworks</b>
               </i>
@@ -37,6 +37,8 @@ function Home2() {
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
+              <br />
+              <br />I also developed mobile platform with <b className="purple">React Native</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
